@@ -15,7 +15,7 @@ This To-Do List application is a simple task management tool with the ability to
 
 - **HTML:** Provides the structure of the web page.
 - **CSS:** Styles the user interface, including the dark theme.
-- **JavaScript:** Implements the functionality of the To-Do List, including DOM manipulation and handling user input.
+- **JavaScript:** Implements the functionality of the To-Do List, including Document Object Model (DOM) manipulation and handling user input.
 - **Web Notifications API:** Used for sending browser notifications.
 
 ## Usage
